@@ -1,5 +1,5 @@
 # 700P-Laboratory-Projectss-
-This portfolio contains an amazing and exciting laboratories acitivity.
+This portfolio features an exciting and insightful laboratory activity that showcases hands-on learning and discovery.
 ---
 ### About Me📄
 <p align= "center">
@@ -42,6 +42,7 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 ---
 ## Fun Fact About Me :bowtie:
 - I'm just a simple person, I want nothing more than to be completely yours. 😍
+- 
 - I can do household chores🗑️,sweep the floor💦, washing, playing🏀, watching📺, eating🥘, singing🎵, sleeping💤 and etc...
 - I'm an altar server at Holy Rosary Parish Church for almost 8 years and still counting...🙏⛪
 
@@ -59,5 +60,10 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
   
 <a href="https://www.instagram.com/zxscqv/?igsh=Znc1YTdzbW5od2Ix&fbclid=IwY2xjawI6Um9leHRuA2FlbQIxMAABHd4ESySYrrSuN52qp99j1wjiRv9GpYo8zdQUhqjTRamJCSlp929KVEiapg_aem_uM7t8z97hkQFh53zsaY2Ow" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jvillar24-0208@cca.edu.ph" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
   &nbsp;&nbsp;
