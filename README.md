@@ -1,5 +1,5 @@
-# 700P-Lab-Projectss-
-This repository will contain a amazing and exciting laboratories acitivity.
+# 700P-Laboratory-Projectss-
+This portfolio contains an amazing and exciting laboratories acitivity.
 ---
 ### About Me📄
 <p align= "center">
@@ -35,6 +35,7 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 &nbsp;&nbsp;
 
 ### My Projects🏗️
+
 ## Midterms🫢
 
 ## Finals🔪
@@ -45,12 +46,12 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 - I'm an altar server at Holy Rosary Parish Church for almost 8 years and still counting...🙏⛪
 
 ---
-## Skills
+## Skills😜
 - Time Management🕐
 - Adaptability♻️
 - Patience⏲️
 
-## Call Me If You Need Me🤙
+## Hotline🤙
 <a href="https://www.facebook.com/jamesxvlr" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
  </a>
