@@ -12,6 +12,7 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 
 ### What I believe in🙌
 - Every minute counts.⏱️
+- Everything happens for a reason.😒
 - Flexibility and Agility is impotant in life.💪⚒️
 - Honesty is the best policy.🙏
 ---
@@ -22,7 +23,7 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 
 **Junior Highschool**: Sto.Domingo Integrated School
 
-**Primary School**: Sto.Domingo Integrated School
+**Elementary School**: Sto.Domingo Integrated School
 
 
 ## Languages I used Before
@@ -36,13 +37,15 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 
 ### My Projects🏗️
 
-## Midterms🫢
+## Midterms
 
-## Finals🔪
+
+## Finals
+
 ---
-## Fun Fact About Me :bowtie:
+## Fun Facts About Me :bowtie:
 - I'm just a simple person, I want nothing more than to be completely yours. 😍
-- 
+- I'm happy, as you can see in the picture even if she's with someone else.😢 arayy kopoo
 - I can do household chores🗑️,sweep the floor💦, washing, playing🏀, watching📺, eating🥘, singing🎵, sleeping💤 and etc...
 - I'm an altar server at Holy Rosary Parish Church for almost 8 years and still counting...🙏⛪
 
