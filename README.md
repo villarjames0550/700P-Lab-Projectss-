@@ -5,7 +5,7 @@ This portfolio features an exciting and insightful laboratory activity that show
 <p align= "center">
 <img src="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/6029e7296f9b6a3fbce121e05d6ab71fa2a59394/IMG_3889.JPG" width="200" height="400" />
     
-Hello, Im **James D. Great** a 2nd year Bachelor of Science in Computer Science Student here at City College of Angeles (Home of Professionals).
+Hello, Im **James D. Great** a 2nd year Bachelor of Science in Computer Science Student here at City College of Angeles (Home of Professionals!).
 I take this course to enhance my computer skills💻🖱️ and develop overtime as I learn more about computer.
 
 
