@@ -1,11 +1,11 @@
 # 700P-Lab-Projectss-
 This repository will contain a amazing and exciting laboratories acitivity.
 ---
-### About Myself📄
+### About Me📄
 Hello, Im ***James D. Great*** a 2nd year Bachelor of Science in Computer Science Student here at City College of Angeles (Home of Professionals).
 I take this course to enhance my computer skills💻🖱️ and develop overtime as I learn more about computer.
 
-<img src="11f0ff70-a555-432e-b78c-0a56fc438ec8.jpg"
+
 
 ### What I believe in🙌
 - Every minute counts.⏱️
@@ -39,6 +39,18 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 - Patience⏲️
 
 ## Call Me If You Need Me🤙
-<a href="https://www.facebook.com/share/1BTNfnq2Jx/">Click Here!</a>
-<href> (https://www.instagram.com/zxscqv?igsh=MXduMnc1ZnM3ZjZ2MA==)
+href="https://www.facebook.com/jamesxvlr" target="_blank">
 
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
+
+  </a>
+
+  &nbsp;&nbsp;
+  
+href="https://www.instagram.com/zxscqv/?igsh=Znc1YTdzbW5od2Ix&fbclid=IwY2xjawI6Um9leHRuA2FlbQIxMAABHd4ESySYrrSuN52qp99j1wjiRv9GpYo8zdQUhqjTRamJCSlp929KVEiapg_aem_uM7t8z97hkQFh53zsaY2Ow" target="_blank">
+
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+
+  </a>
+
+  &nbsp;&nbsp;
