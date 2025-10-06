@@ -6,12 +6,11 @@
 
 ### About Me📄
 <p align= "center">
-<img src="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/6029e7296f9b6a3fbce121e05d6ab71fa2a59394/IMG_3889.JPG" width="200" height="400" />
+<img src="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/6029e7296f9b6a3fbce121e05d6ab71fa2a59394/IMG_3889.JPG" width="300" height="400" />
     
 <p align= "center">
 Hello, Im James D. Great a 2nd year Bachelor of Science in Computer Science Student here at City College of Angeles (Home of Professionals!).
 I take this course to enhance my computer skills💻🖱️ and develop overtime as I learn more about computer.
-
 
 
 ### What I believe in🙌
@@ -39,12 +38,18 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="50"/>
 &nbsp;&nbsp;
 
-### My Projects🏗️
+## My Projects🏗️
+### MIDTERMS
+**Midterm Lab Task#1:** (Database Record)
+<a href= "https://classroom.google.com/c/NzkxODY4NDgyODU1/a/ODAwODA4OTg1NDUz/details"> 
+**Midterm Lab Task#2:** (Using Loop and Functions)
+<a href="https://classroom.google.com/c/NzkxODY4NDgyODU1/a/ODAyODgzNjIyMTEw/details">
+**Midterm Lab Task#3:** (Using List Collections)
+<a href="https://classroom.google.com/c/NzkxODY4NDgyODU1/a/ODA2MTYwNDY3NTQ2/details">
+**Midterm Lab Task#4:** (Using Dictionaries)
+<a href="https://classroom.google.com/c/NzkxODY4NDgyODU1/a/ODA3ODMxNDExMjA5/details">
 
-## Midterms
-
-
-## Finals
+### Finals
 
 ---
 ## Fun Facts About Me :bowtie:
