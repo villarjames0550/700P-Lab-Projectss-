@@ -42,13 +42,23 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 ### MIDTERMS
 **Midterm Lab Task#1:** (Database Record)
 <a href= "https://classroom.google.com/c/NzkxODY4NDgyODU1/a/ODAwODA4OTg1NDUz/details"> 
+</a>
+  &nbsp;&nbsp;
+  
 **Midterm Lab Task#2:** (Using Loop and Functions)
 <a href="https://classroom.google.com/c/NzkxODY4NDgyODU1/a/ODAyODgzNjIyMTEw/details">
+</a>
+  &nbsp;&nbsp;
+  
 **Midterm Lab Task#3:** (Using List Collections)
 <a href="https://classroom.google.com/c/NzkxODY4NDgyODU1/a/ODA2MTYwNDY3NTQ2/details">
+</a>
+  &nbsp;&nbsp;
+  
 **Midterm Lab Task#4:** (Using Dictionaries)
 <a href="https://classroom.google.com/c/NzkxODY4NDgyODU1/a/ODA3ODMxNDExMjA5/details">
-
+</a>
+  &nbsp;&nbsp;
 ### Finals
 
 ---
