@@ -60,14 +60,18 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 **Midterm Lab Task#5:** [📂Users in Social Media]
 
 (https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/JamesV%20-%20Lab%20task%205.pdf)
+---
+### 🎓 FINALS
+**Finals Lab Task#1:** [📂A Car That Works]
 
+(https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/FINALS/LAB%20TASKS/James%20-%20Lab%20Task%231.pdf)
 
 ---
 ## Fun Facts About Me :bowtie:
-- I'm just a simple person, I want nothing more than to be completely yours. 😍
-- I'm happy, as you can see in the picture even if she's with someone else.😢 arayy kopoo
-- I can do household chores🗑️,sweep the floor💦, washing, playing🏀, watching📺, eating🥘, singing🎵, sleeping💤 and etc...
-- I'm an altar server at Holy Rosary Parish Church for almost 8 years and still counting...🙏⛪
+- When it's due, I complete my schoolwork because I enjoy cramming. 😍
+- As you can see from the photo, I'm content even though she's with someone else. 😢 arayy kopoo
+- I'm capable of doing housework 🗑️, mopping the floor 💦, cleaning, playing, watching, eating, singing, sleeping, and more.
+- I have been serving as an altar server at Holy Rosary Parish Church for about eight years, and I'm still going strong. 🙏♪
 
 ---
 ## Skills😜
@@ -81,7 +85,7 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
  </a>
  &nbsp;&nbsp;
   
-<a href="https://www.instagram.com/zxscqv/?igsh=Znc1YTdzbW5od2Ix&fbclid=IwY2xjawI6Um9leHRuA2FlbQIxMAABHd4ESySYrrSuN52qp99j1wjiRv9GpYo8zdQUhqjTRamJCSlp929KVEiapg_aem_uM7t8z97hkQFh53zsaY2Ow" target="_blank">
+<a href="https://www.instagram.com/jamezvlr/?igsh=MXduMnc1ZnM3ZjZ2MA%3D%3D&fbclid=IwY2xjawNmsoxleHRuA2FlbQIxMABicmlkETFxZHJ6UHRNeVhTT3AwQVp4AR7MHpRs8w4NZN2qMz0rDcThRW87TJNz5n0dwHDqbFwLSZWmCALASRgGU_Ljmw_aem_-dGzy9C1mr4F0jMPCEd29A&brid=fetKVLSlFanzYF_2FVBJxw#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
   </a>
   &nbsp;&nbsp;
