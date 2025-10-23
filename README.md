@@ -7,16 +7,16 @@
 <p align= "center">
 <img src="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/6029e7296f9b6a3fbce121e05d6ab71fa2a59394/IMG_3889.JPG" width="500" height="500" />
     
-<p align= "center">
-Hello, Im James D. Great a 2nd year Bachelor of Science in Computer Science Student here at City College of Angeles (Home of Professionals).
-I take this course to enhance my computer skills💻🖱️ and develop overtime as I learn more about computer and programming.
+<p align= "center">    
+Hello, my name is James D. Great, and I am currently a second-year Bachelor of Science in Computer Science student at City College of Angeles (Home of Professionals). I chose this program to further enhance my computer and programming skills, and to continuously develop my knowledge and expertise in the field of computer science.
 
-
+---
 ### What I believe in🙌
 - Every minute counts.⏱️
 - Everything happens for a reason.😒
 - Flexibility and Agility is impotant in life.💪⚒️
 - Honesty is the best policy.🙏
+  
 ---
 ### Education 🎓
 **College**: City College of Angeles(2nd yr BSCS Student🖥️)
@@ -27,8 +27,8 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 
 **Elementary School**: Sto.Domingo Integrated School
 
-
-## Languages I used Before
+---
+## Languages I used:
 
 <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="50"/> 
 &nbsp;&nbsp; 
@@ -39,7 +39,8 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="50"/>  
 &nbsp;&nbsp;
 
-## My Projects🏗️
+---
+### My Laboratory Projects🏗️
 ###  🧪MIDTERMS
 **Midterm Lab Task#1:** [📂DATABASE RECORD]
 
@@ -68,19 +69,21 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 (https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/FINALS/LAB%20TASKS/James%20-%20Lab%20Task%231.pdf)
 
 ---
-## Fun Facts About Me :bowtie:
+### Fun Facts About Me :bowtie:
 - When it's due, I complete my schoolwork because I enjoy cramming. 😍
 - As you can see from the photo, I'm content even though she's with someone else. 😢 arayy kopoo
 - I'm capable of doing housework 🗑️, mopping the floor 💦, cleaning, playing, watching, eating, singing, sleeping, and more.
 - I have been serving as an altar server at Holy Rosary Parish Church for about eight years, and I'm still going strong. 🙏♪
 
 ---
-## Skills😜
+### Skills😜
 - Time Management🕐
 - Adaptability♻️
 - Patience⏲️
 
-## Hotline🤙
+---
+### Hotline🤙
+
 <a href="https://www.facebook.com/jamesxvlr" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
  </a>
@@ -90,7 +93,10 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
   </a>
   &nbsp;&nbsp;
-
+<a href="https://www.tiktok.com/@villar.x?_t=ZS-90mdqKD74kx&_r=1&fbclid=IwY2xjawNmt-pleHRuA2FlbQIxMABicmlkETFxZHJ6UHRNeVhTT3AwQVp4AR5bm_2ubm1QHfFgBpVoYj4l5aICgwO5lvw3Mw54l0N3gORBM8D0roT3PBhBgA_aem_XGZasoYaDXPLeNsGBiqjIg&brid=fetKVLSlFanzYF_2FVBJxw" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jvillar24-0208@cca.edu.ph" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
