@@ -1,16 +1,15 @@
 # 700P-Laboratory-Projectss-
 <p align= "center">
-    
-**This portfolio features an exciting and insightful laboratory activity that showcases hands-on learning and discovery.**
 
+<img src="https://github.com/villarjames0550/700P-James-Portfolio.xd/blob/main/HelloI-ezgif.com-video-to-gif-converter.gif" alt="Cool you found me" width="100%" height= "10%"/>
 
 ### About Me📄
 <p align= "center">
-<img src="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/6029e7296f9b6a3fbce121e05d6ab71fa2a59394/IMG_3889.JPG" width="300" height="400" />
+<img src="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/6029e7296f9b6a3fbce121e05d6ab71fa2a59394/IMG_3889.JPG" width="500" height="500" />
     
 <p align= "center">
-Hello, Im James D. Great a 2nd year Bachelor of Science in Computer Science Student here at City College of Angeles (Home of Professionals!).
-I take this course to enhance my computer skills💻🖱️ and develop overtime as I learn more about computer.
+Hello, Im James D. Great a 2nd year Bachelor of Science in Computer Science Student here at City College of Angeles (Home of Professionals).
+I take this course to enhance my computer skills💻🖱️ and develop overtime as I learn more about computer and programming.
 
 
 ### What I believe in🙌
@@ -41,25 +40,6 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 ## My Projects🏗️
 ### MIDTERMS
 **Midterm Lab Task#1:** (Database Record)
-<a href= "https://classroom.google.com/c/NzkxODY4NDgyODU1/a/ODAwODA4OTg1NDUz/details"> 
-</a>
-  &nbsp;&nbsp;
-  
-**Midterm Lab Task#2:** (Using Loop and Functions)
-<a href="https://classroom.google.com/c/NzkxODY4NDgyODU1/a/ODAyODgzNjIyMTEw/details">
-</a>
-  &nbsp;&nbsp;
-  
-**Midterm Lab Task#3:** (Using List Collections)
-<a href="https://classroom.google.com/c/NzkxODY4NDgyODU1/a/ODA2MTYwNDY3NTQ2/details">
-</a>
-  &nbsp;&nbsp;
-  
-**Midterm Lab Task#4:** (Using Dictionaries)
-<a href="https://classroom.google.com/c/NzkxODY4NDgyODU1/a/ODA3ODMxNDExMjA5/details">
-</a>
-  &nbsp;&nbsp;
-### Finals
 
 ---
 ## Fun Facts About Me :bowtie:
