@@ -41,32 +41,20 @@ Hello, my name is James D. Great, and I am currently a second-year Bachelor of S
 
 ---
 ### My Laboratory Projects🏗️
-###  🧪MIDTERMS
-**Midterm Lab Task#1:** [📂DATABASE RECORD]
+###  📑MIDTERMS
+**Midterm Lab Task#1:** [📂Database Record](https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/TorresxVillar%20-%20Lab%20task1.pdf)
 
-(https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/TorresxVillar%20-%20Lab%20task1.pdf)
+**Midterm Lab Task#2:** [📂Multiplication Table and Bank Program](https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/James%20G%20-%20Lab%20task2.pdf)
 
-**Midterm Lab Task#2:** [📂Multiplication Table and Bank Program]
+**Midterm Lab Task#3:** [📂List Collections](https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/JamesG%20-%20Lab%20task3.pdf)
 
-(https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/James%20G%20-%20Lab%20task2.pdf)
+**Midterm Lab Task#4:** [📂Dictionary Collections](https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/James%20-%20Lab%20task4.pdf)
 
-**Midterm Lab Task#3:** [📂List Collections]
-
-(https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/JamesG%20-%20Lab%20task3.pdf)
-
-**Midterm Lab Task#4:** [📂Dictionary Collections]
-
-(https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/James%20-%20Lab%20task4.pdf)
-
-**Midterm Lab Task#5:** [📂Users in Social Media]
-
-(https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/JamesV%20-%20Lab%20task%205.pdf)
+**Midterm Lab Task#5:** [📂Users in Social Media](https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/JamesV%20-%20Lab%20task%205.pdf)
 
 ---
 ### 🎓 FINALS
-**Finals Lab Task#1:** [📂A Car That Works]
-
-(https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/FINALS/LAB%20TASKS/James%20-%20Lab%20Task%231.pdf)
+**Finals Lab Task#1:** [📂A Car That Works](https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/FINALS/LAB%20TASKS/James%20-%20Lab%20Task%231.pdf)
 
 ---
 ### Fun Facts About Me :bowtie:
