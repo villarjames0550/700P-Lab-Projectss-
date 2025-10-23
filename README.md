@@ -44,7 +44,13 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 **Midterm Lab Task#1:** [📂DATABASE RECORD]
 
 (https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/TorresxVillar%20-%20Lab%20task1.pdf)
+
 **Midterm Lab Task#2:** [📂Multiplication Table and Bank Program]
+
+(https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/James%20G%20-%20Lab%20task2.pdf)
+
+**Midterm Lab Task#3:** [📂List Collections]
+
 
 
 ---
