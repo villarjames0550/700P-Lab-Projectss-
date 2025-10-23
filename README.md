@@ -13,6 +13,7 @@ Hello, my name is James D. Great, and I am currently a second-year Bachelor of S
 ---
 ### What I believe in🙌
 - Every minute counts.⏱️
+- You become what you believe.🫡
 - Everything happens for a reason.😒
 - Honesty is the best policy.🙏
   
