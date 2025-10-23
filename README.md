@@ -40,8 +40,10 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 &nbsp;&nbsp;
 
 ## My Projects🏗️
-### MIDTERMS
-**Midterm Lab Task#1:**
+###  🧪MIDTERMS
+**Midterm Lab Task#1:** [📂DATABASE RECORD]
+
+(https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/James%20Dictionaries.pdfPDF.url#README)
 
 ---
 ## Fun Facts About Me :bowtie:
