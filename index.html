@@ -3,102 +3,230 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>700P Lab Projects</title>
+  <title>James Villar | 700P Laboratory Projects</title>
   <style>
+    /* ===== Global Styles ===== */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
     body {
       font-family: 'Segoe UI', Arial, sans-serif;
-      background-color: #f4f6f9;
-      color: #333;
-      margin: 0;
-    }
-
-    header {
-      background: linear-gradient(90deg, #004aad, #0066cc);
-      color: white;
-      text-align: center;
-      padding: 40px 20px;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-    }
-
-    header h1 {
-      margin: 0;
-      font-size: 2em;
-    }
-
-    header p {
-      margin-top: 8px;
-      font-size: 1.1em;
-      opacity: 0.9;
-    }
-
-    main {
-      max-width: 800px;
-      background: white;
-      margin: 40px auto;
-      padding: 30px;
-      border-radius: 10px;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    }
-
-    h2 {
-      text-align: center;
-      color: #004aad;
-    }
-
-    ul {
-      list-style: none;
-      padding: 0;
-      margin-top: 20px;
-      text-align: center;
-    }
-
-    li {
-      margin: 10px 0;
+      background-color: #0f172a;
+      color: #e2e8f0;
+      line-height: 1.6;
+      scroll-behavior: smooth;
     }
 
     a {
-      background-color: #004aad;
-      color: white;
-      padding: 10px 20px;
-      border-radius: 6px;
+      color: #38bdf8;
       text-decoration: none;
-      font-weight: 500;
-      transition: background 0.3s ease;
+      transition: color 0.3s;
     }
 
     a:hover {
-      background-color: #0066cc;
+      color: #60a5fa;
     }
 
+    h1, h2, h3 {
+      color: #f8fafc;
+    }
+
+    section {
+      max-width: 900px;
+      margin: 60px auto;
+      background: #1e293b;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.4);
+    }
+
+    header {
+      text-align: center;
+      padding: 50px 20px;
+      background: linear-gradient(135deg, #0f172a, #1e40af);
+    }
+
+    header h1 {
+      font-size: 2.2rem;
+      color: #f8fafc;
+    }
+
+    header p {
+      color: #94a3b8;
+      font-size: 1.1rem;
+    }
+
+    img.profile {
+      display: block;
+      margin: 20px auto;
+      border-radius: 12px;
+      width: 250px;
+      height: 250px;
+      object-fit: cover;
+      border: 3px solid #38bdf8;
+    }
+
+    ul {
+      margin-top: 10px;
+      list-style: none;
+    }
+
+    li {
+      margin: 8px 0;
+    }
+
+    .divider {
+      border-bottom: 1px solid #334155;
+      margin: 30px 0;
+    }
+
+    /* ===== Buttons for Socials ===== */
+    .socials {
+      text-align: center;
+      margin-top: 25px;
+    }
+
+    .socials a {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 18px;
+      background-color: #1e40af;
+      border-radius: 6px;
+      color: white;
+      font-weight: 500;
+      transition: background 0.3s;
+    }
+
+    .socials a:hover {
+      background-color: #2563eb;
+    }
+
+    /* ===== Tags ===== */
+    .badge img {
+      height: 40px;
+      margin: 10px 8px;
+    }
+
+    /* ===== Footer ===== */
     footer {
       text-align: center;
-      padding: 20px;
-      font-size: 0.9em;
-      color: #555;
+      color: #94a3b8;
+      padding: 30px 10px;
+      font-size: 0.9rem;
     }
 
     footer a {
-      color: #004aad;
+      color: #38bdf8;
+    }
+
+    /* ===== Responsive ===== */
+    @media (max-width: 600px) {
+      section {
+        margin: 20px;
+        padding: 25px;
+      }
+
+      img.profile {
+        width: 180px;
+        height: 180px;
+      }
     }
   </style>
 </head>
+
 <body>
+
   <header>
-    <h1>Welcome to 700P Lab Projects</h1>
-    <p>By: James Villar</p>
+    <h1>700P Laboratory Projects</h1>
+    <p>Portfolio of <strong>James D. Great</strong></p>
   </header>
 
-  <main>
-    <h2>Project List</h2>
+  <section>
+    <h2>👨‍💻 About Me</h2>
+    <img src="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/6029e7296f9b6a3fbce121e05d6ab71fa2a59394/IMG_3889.JPG?raw=true" alt="James Villar" class="profile">
+    <p>Hello, my name is <strong>James D. Great</strong>, a 2nd-year <strong>BS Computer Science</strong> student at City College of Angeles (Home of Professionals). I chose this program to enhance my programming skills and continuously develop my knowledge in computer science.</p>
+    <div class="divider"></div>
+
+    <h2>💭 What I Believe In</h2>
     <ul>
-      <li><a href="project1.html">Project 1</a></li>
-      <li><a href="project2.html">Project 2</a></li>
-      <li><a href="project3.html">Project 3</a></li>
+      <li>Every minute counts. ⏱️</li>
+      <li>Everything happens for a reason. 😒</li>
+      <li>Honesty is the best policy. 🙏</li>
     </ul>
-  </main>
+    <div class="divider"></div>
+
+    <h2>🎓 Education</h2>
+    <ul>
+      <li><strong>College:</strong> City College of Angeles (2nd Year BSCS Student)</li>
+      <li><strong>Senior High:</strong> Sto. Domingo Integrated School (HUMSS Strand)</li>
+      <li><strong>Junior High:</strong> Sto. Domingo Integrated School</li>
+      <li><strong>Elementary:</strong> Sto. Domingo Integrated School</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>💻 Languages I Use</h2>
+    <div class="badge">
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+    </div>
+  </section>
+
+  <section>
+    <h2>📑 Midterm Projects</h2>
+    <ul>
+      <li><a href="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/TorresxVillar%20-%20Lab%20task1.pdf">Database Record</a></li>
+      <li><a href="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/James%20G%20-%20Lab%20task2.pdf">Multiplication Table and Bank Program</a></li>
+      <li><a href="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/JamesG%20-%20Lab%20task3.pdf">List Collections</a></li>
+      <li><a href="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/James%20-%20Lab%20task4.pdf">Dictionary Collections</a></li>
+      <li><a href="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/MIDTERMS/LAB%20TASKS/JamesV%20-%20Lab%20task%205.pdf">Users in Social Media</a></li>
+    </ul>
+
+    <div class="divider"></div>
+
+    <h2>🎓 Finals Project</h2>
+    <ul>
+      <li><a href="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/FINALS/LAB%20TASKS/James%20-%20Lab%20Task%231.pdf">A Car That Works</a></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>😎 Fun Facts About Me</h2>
+    <ul>
+      <li>I enjoy cramming before deadlines 😍</li>
+      <li>Even if she’s with someone else, I’m still content 😢</li>
+      <li>I’m capable of doing housework 🗑️, cleaning 💦, eating 🍽️, and singing 🎶</li>
+      <li>I’ve been an altar server for 8+ years at Holy Rosary Parish Church 🙏</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>💡 Skills</h2>
+    <ul>
+      <li>Time Management 🕐</li>
+      <li>Adaptability ♻️</li>
+      <li>Patience ⏲️</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📞 Hotline</h2>
+    <div class="socials">
+      <a href="https://www.facebook.com/jamesxvlr" target="_blank">Facebook</a>
+      <a href="https://www.instagram.com/jamezvlr" target="_blank">Instagram</a>
+      <a href="https://www.tiktok.com/@villar.x" target="_blank">TikTok</a>
+      <a href="mailto:jvillar24-0208@cca.edu.ph" target="_blank">Email</a>
+    </div>
+  </section>
 
   <footer>
-    <p>Check the full repository on <a href="https://github.com/villarjames0550/700P-Lab-Projectss-" target="_blank">GitHub</a>.</p>
+    <p>© 2025 James D. Great | Built with ❤️ using HTML & CSS</p>
+    <p>View this project on <a href="https://github.com/villarjames0550/700P-Lab-Projectss-" target="_blank">GitHub</a></p>
   </footer>
+
 </body>
 </html>
