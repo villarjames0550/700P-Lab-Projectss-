@@ -30,16 +30,18 @@ I take this course to enhance my computer skills💻🖱️ and develop overtime
 
 ## Languages I used Before
 
-<img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="50"/> &nbsp;&nbsp; 
-
+<img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="50"/> 
+&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="50"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="50"/>
 &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="50"/>  
+&nbsp;&nbsp;
 
 ## My Projects🏗️
 ### MIDTERMS
-**Midterm Lab Task#1:** (Database Record)
+**Midterm Lab Task#1:**
 
 ---
 ## Fun Facts About Me :bowtie:
