@@ -1,8 +1,6 @@
 # 700P-Laboratory-Projectss-
 <p align= "center">
 
-<img src="https://github.com/villarjames0550/700P-James-Portfolio.xd/blob/main/HelloI-ezgif.com-video-to-gif-converter.gif" alt="Cool you found me" width="100%" height= "10%"/>
-
 ### About Me📄
 <p align= "center">
 <img src="Gemini_25-11-30_09-04-07-264.jpg" width="500" height="500" />
