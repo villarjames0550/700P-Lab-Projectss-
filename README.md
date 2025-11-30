@@ -5,7 +5,7 @@
 
 ### About Me📄
 <p align= "center">
-<img src="https://github.com/villarjames0550/700P-Lab-Projectss-/blob/6029e7296f9b6a3fbce121e05d6ab71fa2a59394/IMG_3889.JPG" width="500" height="500" />
+<img src="Gemini_25-11-30_09-04-07-264.jpg" width="500" height="500" />
     
 <p align= "center">    
 Hello, my name is James D. Great, and I am currently a second-year Bachelor of Science in Computer Science student at City College of Angeles (Home of Professionals). I chose this program to further enhance my computer and programming skills, and to continuously develop my knowledge and expertise in the field of computer science.
