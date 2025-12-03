@@ -3,7 +3,7 @@
 
 ### About Me📄
 <p align= "center">
-<img src="Gemini_25-11-30_09-04-07-264.jpg" width="500" height="500" />
+<img src="jim.jpg" width="500" height="500" />
     
 <p align= "center">    
 Hello, my name is James D. Great, and I am currently a second-year Bachelor of Science in Computer Science student at City College of Angeles (Home of Professionals). I chose this program to further enhance my computer and programming skills, and to continuously develop my knowledge and expertise in the field of computer science.
