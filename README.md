@@ -52,10 +52,15 @@ Hello, my name is James D. Great, and I am currently a second-year Bachelor of S
 ---
 ### 🎓 FINALS
 **Final Lab Task#1:** [📂A Car That Works](https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/FINALS/LAB%20TASKS/James%20-%20Lab%20Task%231.pdf)
+
 **Final Lab Task 2:** [📂School Performance]("https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/FINALS/LAB%20TASKS/James%20Labtask2.pdf")
+
 **Final Lab Task 3:**[📂Chirp and Tweet]("https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/FINALS/LAB%20TASKS/James%20Labtask3.pdf")
+
 **Final Lab Task 4:**[📂Long Distance Call Calculator]("https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/FINALS/LAB%20TASKS/JamesLabtask4.pdf")
+
 **Final Lab Task 5:**[📂Movie Database]("https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/FINALS/LAB%20TASKS/James%20Labtask5.pdf")
+
 **Final Lab Task 6:**[📂BMW Cars]("https://github.com/villarjames0550/700P-Lab-Projectss-/blob/main/FINALS/LAB%20TASKS/James%20Labtask3.pdf")
 
 ---
